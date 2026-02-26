@@ -1,0 +1,31 @@
+{
+  "name": "barclays-desktop",
+  "version": "1.0.0",
+  "description": "Barclays Presentation Fork desktop app",
+  "main": "electron-main.js",
+  "author": "Ashish",
+  "scripts": {
+    "build": "babel app.jsx --out-file app.compiled.js --plugins @babel/plugin-transform-react-jsx",
+    "start": "npm run build && electron-forge start",
+    "start:electron": "electron .",
+    "package": "electron-forge package",
+    "make": "electron-forge make"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.28.6",
+    "@babel/core": "^7.29.0",
+    "@babel/plugin-transform-react-jsx": "^7.28.6",
+    "@electron-forge/cli": "^7.11.1",
+    "@electron-forge/maker-deb": "^7.11.1",
+    "@electron-forge/maker-rpm": "^7.11.1",
+    "@electron-forge/maker-squirrel": "^7.11.1",
+    "@electron-forge/maker-zip": "^7.11.1",
+    "@electron-forge/plugin-auto-unpack-natives": "^7.11.1",
+    "@electron-forge/plugin-fuses": "^7.11.1",
+    "@electron/fuses": "^1.8.0",
+    "electron": "^32.3.3"
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.1"
+  }
+}

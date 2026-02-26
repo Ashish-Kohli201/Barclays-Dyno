@@ -1,0 +1,12 @@
+node_modules/
+out/
+.DS_Store
+package-lock.json
+debug-electron.js
+debug-module-load.txt
+electron-debug-main.js
+fix-electron.js
+reinstall-electron.bat
+run-debug.bat
+run.bat
+test-app/
