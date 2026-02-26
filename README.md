@@ -1,12 +1,12 @@
-# Barclays Nexus
+# Barclays Dyno
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Barclays_logo.svg/1200px-Barclays_logo.svg.png" alt="Barclays Logo" width="200" />
+  <img src="https://www.google.com/imgres?q=barclays&imgurl=https%3A%2F%2Ftradersunion.com%2Fimages%2Fbrokers%2F606.jpeg&imgrefurl=https%3A%2F%2Ftradersunion.com%2Fbrokers%2Ffond%2Fview%2Fbarclays%2F&docid=RctDQZi9-CtnHM&tbnid=61UFkoHkhtro-M&vet=12ahUKEwiWpN6_7veSAxUhd2wGHbojFUoQnPAOegQIGhAB..i&w=540&h=136&hcb=2&ved=2ahUKEwiWpN6_7veSAxUhd2wGHbojFUoQnPAOegQIGhAB" alt="Barclays Logo" width="200" />
 </div>
 
 <br />
 
-**Barclays Nexus** is a next-generation multidimensional collateral and data visualization platform. It provides an infinite, interactive canvas for financial structuring, diagramming, and data analysis powered by React Flow and Llama 3 AI intelligence.
+**Barclays Dyno** is a next-generation multidimensional collateral and data visualization platform. It provides an infinite, interactive canvas for financial structuring, diagramming, and data analysis powered by React Flow and Llama 3 AI intelligence.
 
 ## 🌟 Key Features
 
@@ -32,14 +32,14 @@
 ### 1. Web Version (GitHub Pages)
 The application is hosted and accessible directly via the web without any installation required.
 
-🔗 **[Launch Barclays Nexus Web](https://ashish-kohli201.github.io/Barclays-Dyno/)**
+🔗 **[Launch Barclays Dyno Web](https://ashish-kohli201.github.io/Barclays-Dyno/)**
 
 ### 2. Desktop Application (Windows .exe)
 For an offline, native desktop experience:
 
-1. Download the latest `Barclays Nexus Setup.exe` from the [Releases](https://github.com/Ashish-Kohli201/Barclays-Dyno/releases) tab (or compile it locally using the steps below).
+1. Download the latest `Barclays Dyno Setup.exe` from the [Releases](https://github.com/Ashish-Kohli201/Barclays-Dyno/releases) tab (or compile it locally using the steps below).
 2. Run the installer.
-3. Launch **Barclays Nexus** from your Start Menu.
+3. Launch **Barclays Dyno** from your Start Menu.
 
 ---
 
